@@ -1,0 +1,22 @@
+{
+    "vehicles": [
+        {
+            "identifier": "mtnt01",
+            "make": "tesla",
+            "model": "Model X",
+            "year": "13-05-2018"
+        },
+        {
+            "identifier": "01GBB1",
+            "make": "AUDI",
+            "model": "rs8",
+            "year": "29-06-2016"
+        },
+        {
+            "identifier": "34-PD-LP",
+            "make": "KIA",
+            "model": "PICANTO; 1.1 M/T",
+            "year": "14-05-2004"
+        }
+    ]
+}
