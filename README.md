@@ -16,7 +16,7 @@ Foobar is a Python library for dealing with word pluralization.
 8. run : ``` php artisan serve```  - start server 
 
 ## Custom Composer Command  
-According to the Bonus task the app will check and fix all PSR-2 coding issues
+App will check and fix all PSR-2 coding issues
 
 to fix PSR-2 check and fix PSR-2 coding issues
 
